@@ -5,3 +5,6 @@ Libraries
 #pyssx3
 #selenuim
 #speech recognition
+
+Web scrapper srapping weather website and converting into text
+
